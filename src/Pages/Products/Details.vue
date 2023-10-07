@@ -12,7 +12,7 @@ import {
   TabPanels,
 } from '@headlessui/vue'
 import { StarIcon } from '@heroicons/vue/20/solid'
-import { HeartIcon, MinusIcon, PlusIcon } from '@heroicons/vue/24/outline'
+import { MinusIcon, PlusIcon } from '@heroicons/vue/24/outline'
 import { useRoute } from 'vue-router'
 const route = useRoute()
 
